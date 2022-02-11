@@ -1,1 +1,2 @@
-# Ecological_Footprint_Human_Activity_Correlations_in_3_Decades
+# Comp4651-project
+Comp4651 project

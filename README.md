@@ -1,0 +1,1 @@
+# Ecological_Footprint_Human_Activity_Correlations_in_3_Decades
